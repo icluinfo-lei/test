@@ -28,3 +28,9 @@ See TODO 6
 
 ### Task 7 Bonus
 Create a docker image and run it from command line
+
+### Task 8 Bonus
+Replace openfeign with RestClient. Refer to Task 3.
+
+### Task 9 Bonus
+Upgrade JDK to 25, and Spring boot to 3.5.x
